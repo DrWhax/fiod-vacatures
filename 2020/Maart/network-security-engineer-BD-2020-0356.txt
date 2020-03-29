@@ -1,0 +1,83 @@
+Stand­plaats Apeldoorn
+Contractduur Tijdelijke aanstelling / Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+Uren per week 32 - 36
+Maand­salaris €3.256 - €5.003
+Salaris­niveau schaal 11
+Niveau Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 31 maart Nog 2 dagen
+Vacaturenummer 1087728
+Plaatsingsdatum 4 maart 2020
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+"Ik wil altijd groeien in een informele omgeving waar verschillende disciplines bij elkaar komen. En waar ik door feedback mezelf kan blijven ontwikkelen. Binnen onze DevOps-omgeving kan dat: werken met de nieuwste technologieën in een state-of-the-art en hoog beveiligde forensische ICT-omgeving." Maselly Retuadan - System engineer infrastructuur bij de Belastingdienst.
+
+Het team infrastructuur digitaal rechercheren voorziet de rechercheurs van de FIOD en andere opsporingsdiensten van het beste forensische IT-platform. Wij helpen hen hun missie te bereiken: het opsporen van belastingfraude. Hiervoor werken wij aan het verder uitbreiden van het platform en voeren we continu nieuwe ontwikkelingen door. En daar kun jij als expert op het gebied van netwerk, security, routing en switching ons bij helpen.
+
+Je werkt als een echte DevOps-engineer en denkt netwerk- en securityoplossingen uit. Jij bent hierin de spil. Zet je creativiteit en conceptuele denkvermogen maar vast op scherp voor de innovatiefste oplossingen. Je stemt deze af met je collega’s en de security officer, en je begeleidt de deployment. Je zorgt dus niet alleen voor de configuratie, maar voegt ook extra functionaliteiten toe. Daarnaast verwerk je complexe verstoringen in de derde lijn.
+
+Taken & verantwoordelijkheden:
+
+    Uitdenken network & security oplossingen
+    Afstemmen oplossingen met collega’s en security officer
+    Overzicht houden over gevolgen ontwikkelwerkzaamheden voor security & network
+    Proactief adviseren colleges over network & security
+    Bijhouden vakkennis en dit actief uitdragen binnen het team
+    Begeleiden deployment uitgewerkte network & security oplossingen
+    Oplossen complexe verstoringen (3e lijns)
+
+Jij en je collega system engineer zijn dé experts. Zijn er ontwikkelwerkzaamheden, dan ben jij alert op wat de gevolgen zijn voor de security en netwerken en vice versa. Gevraagd en ongevraagd adviseer je je collega’s hierover. Je houdt je vakkennis up-to-date en draagt deze actief uit binnen het team. En dat wordt gewaardeerd; jij en je collega’s vormen een hecht team en werken samen hard aan het realiseren van de deadlines en opvolging van de snelle ontwikkelingen. Er is veel waardering over en weer en dat vertaalt zich in een heel prettige werksfeer.
+
+Zullen we zakendoen en word jij de nieuwe collega van Maselly? Of wil je liever eerst wat meer informatie? Neem dan contact op met Joost Otten, teammanager infrastructuur digitaal rechercheren.
+Functie-eisen
+
+    Je hebt hbo niveau.
+    Je hebt bij voorkeur een hbo-diploma, liefst in de (technische) informatica of in een andere relevante ICT-richting.
+    Je hebt minimaal 2 jaar werkervaring in network en security.
+    Je hebt kennis van en ervaring met routing, switching, TCP/IP, Juniper SRX (of vergelijkbare securityoplossingen) en F5.
+    Je hebt bij voorkeur kennis van Arista, Cisco of vergelijkbare netwerkoplossingen.
+
+Competenties
+
+    analyseren
+    plannen en organiseren
+    samenwerken
+    omgevingsbewustzijn
+    conceptueel/ creativiteit
+
+Herken jij je zelf hierin ook?
+Als spil op de afdeling werk je intensief samen met alle deelgebieden. Jouw vakgebied raakt aan alles! Hierdoor zie je veel en pak je gevraagd en ongevraagd werk op. Natuurlijk stem je hiervoor vaak af met je collega's en werk je efficiënt en intensief samen aan opdrachten en projecten.
+Als system engineer binnen het team infrastructuur digitaal rechercheren kom je terecht in een unieke werkomgeving. Je werkt samen met alle bloedgroepen binnen de IT aan een platform waarop staatsgeheime informatie verwerkt wordt. Het is dus belangrijk dat je goed kunt omgaan met dynamiek en dat je integer handelt.
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 11
+    Salaris­omschrijving
+
+    In beginsel vindt inschaling in de naast lagere salarisschaal plaats. Bij aanwezigheid van relevante kennis, ervaring of om arbeidsmarktoverwegingen kan inschaling op een hogere positie in de desbetreffende salarisschaal plaatsvinden. Ook bestaat de mogelijkheid om in bijzondere gevallen waarin de aanwezige kennis en/of ervaring dit rechtvaardigt, direct in de bij de functie behorende salarisschaal in te schalen.
+    Maand­salaris Min €3.256 – Max. €5.003 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur Tijdelijke aanstelling / Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast salaris ontvang je ook een individueel keuzebudget (IKB). Jouw IKB bestaat uit geld (IKB-budget) en tijd (IKB-uren). Het IKB geeft je de mogelijkheid om naar eigen keuze een deel van je maandinkomen te laten uitbetalen op de door jou gekozen tijdstippen. Én je hebt de mogelijkheid om je maandinkomen deels om te zetten in verlof of andersom. Ook kun je het IKB-budget besteden aan een fiscaal-vriendelijk doel, zoals bijvoorbeeld een fiets, bedrijfsfitness of vakliteratuur. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer studiefaciliteiten, ouderschapsverlof en een vergoeding woon-werkverkeer. Wij verwachten van onze werknemers dat ze integer zijn en we vragen aan nieuwe medewerkers een Verklaring Omtrent Gedrag (VOG). Als deze niet kan worden overlegd, volgt geen arbeidsovereenkomst of wordt de arbeidsovereenkomst na uiterlijk 3 maanden beëindigd wanneer duidelijk is dat geen VOG overgelegd kan worden.
+Bijzonderheden
+
+We ontvangen je brief en cv graag in een Word- of PDF-bestand. Als je een beroep doet op een voorrangspositie, stuur dan ook een kopie van die kennisgeving mee.
+
+De voorkeur gaat uit naar kandidaten die het meest aansluiten bij het opgestelde profiel. Dit heeft betrekking op zowel de genoemde opleiding(en) als werkervaringseisen. Vermeld deze daarom duidelijk in je cv.
+
+De Belastingdienst zet zich in om medewerkers in dienst te nemen die onder de doelgroep van de Wet banenafspraak vallen. Val je in deze doelgroep en sta je in het doelgroepenregister? Dan nodigen we ook jou uit om te reageren! Samen met jou kijken we of en hoe je eventueel invulling kunt geven aan deze functie. Meer weten? Klik dan hier!
+
+Een (online) voorselectietest en/of een assessment kan deel uit maken van de sollicitatieprocedure (uitgezonderd interne horizontale kandidaten), evenals het maken van een casus, het opvragen van referenties en (online) screening, bijvoorbeeld via databanken, (zoekmachines) en sociale netwerken.
+Meer over jouw toekomstige afdeling
+
+De Directie Informatievoorziening (IV) heeft een integraal jaarplan. De organisatie werkt voor de gehele Belastingdienst en heeft als doel de Belastingdienst optimaal te ondersteunen. Daartoe werkt IV met de business samen op basis van functionele gelijkwaardigheid. In onderling overleg wordt de prioriteitstelling vastgesteld, waarbij de eindverantwoordelijkheid steeds meer schuift richting de business.
+
+Onderdeel Data Center Services (DCS) verzorgt de voortbrenging en exploitatie van de generieke delen van de infrastructuur voor de Belastingdienst en mogelijk andere onderdelen van de Nederlandse overheid.
+

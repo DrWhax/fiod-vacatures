@@ -1,0 +1,85 @@
+Stand­plaats Apeldoorn
+Contractduur Tijdelijke aanstelling met uitzicht op vaste aanstelling
+Uren per week 32 - 36
+Maand­salaris €2.737 - €4.400
+Salaris­niveau schaal 10
+Niveau Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 30 juni
+Vacaturenummer 1040584
+Plaatsingsdatum 20 april 2019
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+''Bij de Belastingdienst werken we in de Java-ontwikkelstraat met diverse frameworks en tools, zoals Maven, Wicket of Angular, Eclipse of IntelliJ. En of het nu gaat om het fixen van een bug of het maken van een nieuwe applicatie: ik leer veel en zit eigenlijk de hele dag te puzzelen. Alle Java-ontwikkelaars werken intensief samen in scrumteams, waarvan ook de product owner deel uitmaakt. Dit doen we lang niet altijd alleen op kantoor. De Belastingdienst is flexibel en geeft je de ruimte om je werk te doen waar en wanneer jij dat wilt.'' Atsje Gercama - Medior Java-developer bij de Belastingdienst.
+
+Bij de Belastingdienst ontwikkelen we applicaties die direct van zeer grote invloed zijn op de Nederlandse samenleving. Met ongeveer 300 Java-developers in bijna 100 multidisciplinaire scrumteams werken we aan uiteenlopende projecten; van een nieuwe functionaliteit op de website tot een toonaangevende innovatie. Zoals de online aangifte-applicatie waarmee we miljoenen mensen bereiken. Voor deze geavanceerde applicatie wonnen we zelfs de Computable Award voor beste ICT-project binnen de overheid. Ook werken we voor de Douane en de FIOD. Het gaat erom dat de belangrijke applicaties die we ontwikkelen continu op-en-top blijven functioneren. Daarom werken we in een Agile-ontwikkelomgeving met standaardisatie op proven technology.
+
+In jouw rol van medior Java-developer werk jij aan het realiseren en beheren van applicaties. De vraagstukken vanuit de business zijn ontzettend divers. Moet er een bug in de aangifte-applicatie worden opgelost? Een nieuw online formulier voor de schenkbelastingen worden ontwikkeld? Of de website van de Douane worden aangepast op basis van nieuwe wet- en regelgeving? In nauwe samenwerking met de andere developers, ontwerpers en testers uit jouw scrumteam ontwikkel je applicatieonderdelen en unittests. Je brengt complexe processen terug tot eenvoudige componenten en bedenkt creatieve oplossingen voor technische problemen.
+
+Als medior Java-developer speel je ook een belangrijke rol in het delen van kennis. Doordat jij en de collega's uit je scrumteam altijd elkaars werk testen en reviewen, houden jullie elkaar scherp en blijven jullie elkaar inspireren. Daarnaast neem je deel aan nationale events als J-Fall, hackathons en interne bijeenkomsten. Je kan deelnemen aan de meetings van de Java vakgroep waarin zon 120 Java-developers sparren over teamoverstijgende en vooral vooruitstrevende projecten die voor de Belastingdienst van betekenis kunnen zijn. Bij de Belastingdienst krijg je de vrijheid om je eigen carrière te maken. Je krijgt alle ruimte om een idee uit te werken of eens te switchen tussen de verschillende teams. Daarnaast zijn er volop mogelijkheden om jezelf te ontwikkelen, bijvoorbeeld door deel te nemen aan bijeenkomsten en conferenties, en het volgen van opleidingen.
+
+Word jij de nieuwe collega van Atsje Gercama? Of wil je liever eerst eens praten over jouw, misschien wel toekomstige werkzaamheden? Neem dan contact op met Anton de Ruiter.
+Functie-eisen
+
+    Je hebt een hbo-diploma of aantoonbaar hbo- werk- en denkniveau.
+    Je bent in het bezit van SCJP/OCPJP, waarbij het een pré is als je meerdere Java-certificeringen hebt, of bereid bent deze te halen.
+    Je hebt minimaal drie jaar werkervaring met het ontwikkelen in Java EE.
+    Je beheerst diverse van de frameworks en tooling die wij gebruiken.
+    Je beheerst de Nederlandse taal, zowel mondeling als schriftelijk.
+
+Jouw competenties?
+
+    analyseren
+    samenwerken
+    klantgerichtheid
+    resultaatgerichtheid
+    zelfontwikkeling
+
+Wat vind je nog meer belangrijk?
+
+Jouw werk bij de Belastingdienst is ontzettend divers. Er zijn altijd nieuwe vraagstukken en uitdagingen die we continu blijven aanscherpen. Gelukkig verleg jij graag je grenzen en kun je goed zelfstandig werken. Jij bent iemand die pas aan de slag gaat als de opdracht volledig duidelijk is. Je bent assertief en proactief genoeg om vragen te stellen. En om verder te kijken dan de opdracht en continu naar verbeteringen te zoeken. Je kunt ook goed samenwerken en voelt je thuis in de professionele maar tegelijk informele werksfeer binnen de scrumteams.
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 10
+    Salaris­omschrijving
+
+    In beginsel vindt inschaling in de naast lagere salarisschaal plaats. Bij aanwezigheid van relevante kennis, ervaring of om arbeidsmarktoverwegingen kan inschaling op een hogere positie in de desbetreffende salarisschaal plaatsvinden. Ook bestaat de mogelijkheid om in bijzondere gevallen waarin de aanwezige kennis en/of ervaring dit rechtvaardigt, direct in de bij de functie behorende salarisschaal in te schalen.
+    Maand­salaris Min €2.737 – Max. €4.400 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur Tijdelijke aanstelling met uitzicht op vaste aanstelling
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast salaris en vakantiegeld kun je rekenen op een eindejaarsuitkering. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer ouderschapsverlof, studiefaciliteiten en een vergoeding woon-werkverkeer. Bij de Rijksoverheid heb je een aantal individuele keuzemogelijkheden bij het samenstellen van je arbeidsvoorwaardenpakket. Wij verwachten van onze werknemers dat ze integer zijn. En we vragen aan nieuwe medewerkers een Verklaring Omtrent Gedrag (VOG). Als deze niet kan worden overlegd, volgt geen aanstelling.
+
+Wij bieden je een inwerkprogramma aan en afhankelijk van je opleiding en werkervaring een opleiding en/of training. Gedurende dit opleidingstraject is het niet mogelijk om in deeltijd te werken. Nadat je dit hebt afgerond en bij goed functioneren, word je aangesteld in vaste dienst. Mocht je het opleidingstraject niet succesvol afronden dan word je aanstelling bij de Belastingdienst beëindigd. De interne kandidaat die de verplicht te volgen opleiding niet succesvol afrondt, wordt teruggeplaatst naar zijn oorspronkelijke organisatieonderdeel en belast met werkzaamheden die gelijk of gelijksoortig zijn aan die van de oorspronkelijke functie.
+Bijzonderheden
+
+We ontvangen je brief en cv graag in een Word- of PDF-bestand. Als je een beroep doet op een voorrangspositie, stuur dan ook een kopie van die beschikking mee.
+
+Onze selectieprocedure voor deze functie ziet er als volgt uit:
+
+Allereerst wordt beoordeeld of een voorrangskandidaat binnen de Rijksoverheid in aanmerking komt voor deze functie.
+
+De voorkeur gaat uit naar kandidaten die het meest aansluiten bij het opgestelde profiel. Dit heeft betrekking op zowel de genoemde opleiding(en) als werkervaringseisen. Vermeld deze daarom duidelijk in je cv.
+
+Om bedrijfseconomische redenen worden medewerkers van de Belastingdienst die korter dan drie jaar in hun huidige functie werkzaam zijn of bezig zijn met een startopleiding of inwerktraject niet als eerste in beschouwing genomen.
+
+De Belastingdienst zet zich in om medewerkers in dienst te nemen die onder de doelgroep van de Wet banenafspraak vallen. Val je in deze doelgroep en sta je in het doelgroepenregister? Dan nodigen we ook jou uit om te reageren! Samen met jou kijken we of en hoe je eventueel invulling kunt geven aan deze functie.
+
+Een (online) voorselectietest en/of een assessment kan deel uit maken van het sollicitatieproces (uitgezonderd interne horizontale kandidaten) evenals het maken van een casus, het opvragen van referenties en (online) screening, bijvoorbeeld via databanken, (zoekmachines) en sociale netwerken.
+Meer over jouw toekomstige afdeling
+
+De Directie Informatievoorziening (IV) wil de gehele Belastingdienst optimaal te ondersteunen. 24 uur per dag en 7 dagen in de week. En om die doelstelling te realiseren, wordt het IV-landschap voortdurend vernieuwd en gemoderniseerd. Net als dat om de complexiteit van dat IV-landschap te verminderen continu wordt gezocht naar standaardtoepassingen. 
+IV werkt hiervoor agile, multidisciplinaire en ketengericht nauw samen met de business op basis van functionele gelijkwaardigheid. In onderling overleg wordt de prioriteitstelling vastgesteld, waarbij de eindverantwoordelijkheid steeds meer verschuift richting de business. 
+
+IV bestaat uit een aantal onderdelen:
+
+• Integratie Business Services (IBS) dat IV-voorzieningen realiseert die aansluiten op de ketens in het primair proces.
+• Standaard Transactie Services (STS) dat (op basis van bouwblokken) generieke deelproducten en (on)bemande ontwikkelstraten en technische tooling realiseert.
+• Generieke Business Services (GBS) dat generieke eindvoorzieningen realiseert voor burgers, bedrijven én de eigen medewerkers op het gebied van interactie, data- en kantoorvoorzieningen.

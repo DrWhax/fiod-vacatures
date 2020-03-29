@@ -1,0 +1,88 @@
+Stand­plaats Apeldoorn
+Contractduur Tijdelijk aanstelling met uitzicht op vaste aanstelling
+Uren per week 32 - 36
+Maand­salaris €3.256 - €5.003
+Salaris­niveau schaal 11
+Niveau Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 30 juni
+Vacaturenummer 1040595
+Plaatsingsdatum 20 april 2019
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+''Ik werk voor de douane en houd mij bezig met het proces Binnenbrengen, Uitgaan en Provianderen. In de Rotterdamse haven komen de grootste containerschepen binnen en alles op het schip moet aangegeven worden. Als er dan iets fout gaat met de aangiftes ontstaat er een file op de A15 van vrachtwagens die de containers willen ophalen. Je pakketje uit China is dan nóg langer onderweg. Kortom een boeiend proces waarbij heel veel verschillende technieken om de hoek komen kijken.'' Bert Gritter - Senior Java developer.
+
+Bij de Belastingdienst ontwikkelen we applicaties die direct van zeer grote invloed zijn op de Nederlandse samenleving. Met ongeveer 300 Java-developers in bijna 100 multidisciplinaire scrumteams werken we aan uiteenlopende projecten; van een nieuwe functionaliteit op de website tot een toonaangevende innovatie. Zoals de online aangifte-applicatie waarmee we miljoenen mensen bereiken. Voor deze geavanceerde app wonnen we zelfs de Computable Award voor beste ICT-project binnen de overheid. Ook werken we voor de Douane en de FIOD. Het gaat erom dat de belangrijke applicaties die we ontwikkelen continu op-en-top blijven functioneren. Daarom werken we in een Agile-ontwikkelomgeving met standaardisatie op proven technology.
+
+In jouw rol van Java-developer heb je een richtinggevende rol in jouw scrumteam. Welke technologie kunnen we het beste inzetten voor de ontwikkeling van een applicatie? En als we een bepaald vraagstuk op meerdere manieren kunnen oplossen, welke kiezen we dan? Natuurlijk ben je je ervan bewust dat het vakgebied en de vragen vanuit de business te complex zijn om deze technische keuzes alleen te maken. Je doet het in nauw overleg met de andere Java-experts in je team. Jij bent vervolgens degene die de knopen doorhakt en proactief inspeelt op toekomstige ontwikkelingen.
+
+Als senior Java-developer loop je ook voorop als gaat om het delen van kennis. Je inspireert en coacht je collega's en geeft workshops en presentaties aan Java-vakgenoten over de nieuwste toepassingen in hun werk. Ook pak je een sleutelrol in de meetings waarin zon 120 Java-developers sparren over team overstijgende en vooral vooruitstrevende projecten die voor de Belastingdienst van betekenis kunnen zijn. Via internationale events als J-Fall of DEF CON blijf je op de hoogte van ontwikkelingen en trends. Onze IT-teams ontwikkelen zich meer en meer tot zelfsturende DevOps-teams. Jij bent als senior niet alleen in staat om die transitie in een complexe organisatie als de Belastingdienst te dragen. Je weet ook steeds meer verantwoordelijkheden naar de teams toe te trekken. Het gaat erom dat jij en je collega's niet alleen ontwikkelen, maar de software vervolgens ook draaiende houden en continu blijven verbeteren.
+
+Word jij de nieuwe collega van Bert Gritter? Of wil je liever eerst eens praten over jouw, misschien wel toekomstige werkzaamheden? Neem dan contact op met Anton de Ruiter.
+Functie-eisen
+
+    Je hebt een hbo-diploma of aantoonbaar hbo- werk- en denkniveau.
+    Je hebt minimaal vijf jaar werkervaring met het ontwikkelen in Java EE.
+    Je beschikt over SCJP/OCPJP én een aantal aanvullende Java-certificaten of bent bereid deze te halen.
+    Je beheerst diverse van de frameworks en tooling die wij gebruiken.
+    Je beheerst de Nederlandse taal, zowel mondeling als schriftelijk.
+    Je hebt bij voorkeur ervaring met het geven van presentaties en workshops en met het coachen van mensen.
+
+Jouw competenties?
+
+    analyseren
+    samenwerken
+    klantgerichtheid
+    resultaatgerichtheid
+    plannen en organiseren
+
+Wat vind je nog meer belangrijk?
+
+Jouw werk bij de Belastingdienst is ontzettend divers. Er zijn altijd nieuwe vraagstukken en uitdagingen die we continu blijven aanscherpen. Gelukkig verleg jij graag je grenzen en kun je goed zelfstandig werken. Je zoekt continu naar verbeteringen en bent als senior in staat om te signaleren waar het in het team aan bijvoorbeeld kennis of capaciteit ontbreekt. Je kunt ook goed samenwerken en voelt je thuis in de professionele maar tegelijk informele werksfeer binnen de scrumteams. Daarnaast wil je je jezelf blijven ontwikkelen, bijvoorbeeld door deel te nemen aan bijeenkomsten, conferenties en hackathons, en het volgen van opleidingen. Wil je een idee uitwerken of switchen tussen de verschillende teams? Bij de Belastingdienst krijg je alle vrijheid om je eigen carrière te maken.
+
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 11
+    Salaris­omschrijving
+
+    In beginsel vindt inschaling in de naast lagere salarisschaal plaats. Bij aanwezigheid van relevante kennis, ervaring of om arbeidsmarktoverwegingen kan inschaling op een hogere positie in de desbetreffende salarisschaal plaatsvinden. Ook bestaat de mogelijkheid om in bijzondere gevallen waarin de aanwezige kennis en/of ervaring dit rechtvaardigt, direct in de bij de functie behorende salarisschaal in te schalen.
+    Maand­salaris Min €3.256 – Max. €5.003 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur Tijdelijk aanstelling met uitzicht op vaste aanstelling
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast salaris en vakantiegeld kun je rekenen op een eindejaarsuitkering. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer ouderschapsverlof, studiefaciliteiten en een vergoeding woon-werkverkeer. Bij de Rijksoverheid heb je een aantal individuele keuzemogelijkheden bij het samenstellen van je arbeidsvoorwaardenpakket. Wij verwachten van onze werknemers dat ze integer zijn. En we vragen aan nieuwe medewerkers een Verklaring Omtrent Gedrag (VOG). Als deze niet kan worden overlegd, volgt geen aanstelling.
+
+Wij bieden je een inwerkprogramma aan en afhankelijk van je opleiding en werkervaring een opleiding en/of training. Gedurende dit opleidingstraject is het niet mogelijk om in deeltijd te werken. Nadat je dit hebt afgerond en bij goed functioneren, word je aangesteld in vaste dienst. Mocht je het opleidingstraject niet succesvol afronden dan word je aanstelling bij de Belastingdienst beëindigd. De interne kandidaat die de verplicht te volgen opleiding niet succesvol afrondt, wordt teruggeplaatst naar zijn oorspronkelijke organisatieonderdeel en belast met werkzaamheden die gelijk of gelijksoortig zijn aan die van de oorspronkelijke functie.
+Bijzonderheden
+
+We ontvangen je brief en cv graag in een Word- of PDF-bestand. Als je een beroep doet op een voorrangspositie, stuur dan ook een kopie van die beschikking mee.
+
+Onze selectieprocedure voor deze functie ziet er als volgt uit:
+
+Allereerst wordt beoordeeld of een voorrangskandidaat binnen de Rijksoverheid in aanmerking komt voor deze functie.
+
+De voorkeur gaat uit naar kandidaten die het meest aansluiten bij het opgestelde profiel. Dit heeft betrekking op zowel de genoemde opleiding(en) als werkervaringseisen. Vermeld deze daarom duidelijk in je cv.
+
+Om bedrijfseconomische redenen worden medewerkers van de Belastingdienst die korter dan drie jaar in hun huidige functie werkzaam zijn of bezig zijn met een startopleiding of inwerktraject niet als eerste in beschouwing genomen.
+
+De Belastingdienst zet zich in om medewerkers in dienst te nemen die onder de doelgroep van de Wet banenafspraak vallen. Val je in deze doelgroep en sta je in het doelgroepenregister? Dan nodigen we ook jou uit om te reageren! Samen met jou kijken we of en hoe je eventueel invulling kunt geven aan deze functie.
+
+Een (online) voorselectietest en/of een assessment kan deel uit maken van het sollicitatieproces (uitgezonderd interne horizontale kandidaten) evenals het maken van een casus, het opvragen van referenties en (online) screening, bijvoorbeeld via databanken, (zoekmachines) en sociale netwerken.
+Meer over jouw toekomstige afdeling
+
+De Directie Informatievoorziening (IV) wil de gehele Belastingdienst optimaal te ondersteunen. 24 uur per dag en 7 dagen in de week. En om die doelstelling te realiseren, wordt het IV-landschap voortdurend vernieuwd en gemoderniseerd. Net als dat om de complexiteit van dat IV-landschap te verminderen continu wordt gezocht naar standaardtoepassingen. 
+IV werkt hiervoor agile, multidisciplinaire en ketengericht nauw samen met de business op basis van functionele gelijkwaardigheid. In onderling overleg wordt de prioriteitstelling vastgesteld, waarbij de eindverantwoordelijkheid steeds meer verschuift richting de business. 
+
+IV bestaat uit een aantal onderdelen:
+
+• Integratie Business Services (IBS) dat IV-voorzieningen realiseert die aansluiten op de ketens in het primair proces.
+• Standaard Transactie Services (STS) dat (op basis van bouwblokken) generieke deelproducten en (on)bemande ontwikkelstraten en technische tooling realiseert.
+• Generieke Business Services (GBS) dat generieke eindvoorzieningen realiseert voor burgers, bedrijven én de eigen medewerkers op het gebied van interactie, data- en kantoorvoorzieningen.

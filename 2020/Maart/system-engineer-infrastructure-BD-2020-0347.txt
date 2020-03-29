@@ -1,0 +1,78 @@
+Stand­plaats Apeldoorn
+Werkplekken 5
+Contractduur Tijdelijke aanstelling / Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+Uren per week 32 - 36
+Maand­salaris €3.256 - €5.003
+Salaris­niveau schaal 11
+Niveau Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 31 maart Nog 2 dagen
+Vacaturenummer 1021189
+Plaatsingsdatum 4 maart 2020
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+"Ik wil altijd 'groeien' in een informele omgeving waarin verschillende disciplines bij elkaar komen. En waarin ik door feedback mezelf kan blijven ontwikkelen. In deze DevOps-omgeving kan dat: werken met de nieuwste technologieën in een state-of-the-art en hoog beveiligde forensische ICT-omgeving." Maselly Retuada - System engineer infrastructure.
+
+Samen met zijn collegas van het team Infrastructuur Digitaal Rechercheren (IDR) ontwikkelt en beheert Maselly het ICT-platform waarmee de FIOD digitaal rechercheert. Het team werkt Agile en past de Scrum-framework toe om ontwikkeling en beheer gezamenlijk uit te kunnen voeren. Om het platform verder uit te breiden en nieuwe ontwikkelingen door te voeren is er ruimte voor een nieuwe expert op het gebied van bijvoorbeeld Continuous Integration, Storage & SAN, Linux, Netwerk, ICT Security of Windows server.
+
+In jóuw rol van system engineer infrastructure ben ook jij daarbij betrokken: bij het ontwerp, de realisatie én het beheer van dat platform van de FIOD. Een organisatieonderdeel dat uiteraard zeer veel waarde hecht aan de bescherming en veiligheid van de informatie en het belang van IT-security vooropstelt. Dat geeft beperkingen én is van invloed op de mogelijkheden. Het doet een beroep op jouw technische creativiteit om te komen tot passende oplossingen binnen de bestaande regels. Als system engineer infrastucture houd je jezelf continu bezig met ontwikkel- en verbetertrajecten om de infrastructuur blijvend te laten aansluiten op de wensen en eisen van de FIOD. Je werkt in een multidisciplinair DevOps team aan aanpassingen waarbij je vanuit jouw expertise een bijdrage levert aan gezamenlijk ontwerpen, testen en beheer van de infrastructuur. Door jouw ervaring ben je, naast jouw kennis en expertise ook breder inzetbaar: van platform tot besturingssysteem en van storage tot applicaties. Daarnaast heb je naast ervaring in een technische inhoudelijke rol ook aantoonbaar ervaring in bijvoorbeeld de rol van Scrummaster of teamlead.
+
+Word jij de nieuwe collega van Maselly Retuadan? Of wil je liever eerst eens praten over jouw, misschien wel toekomstige werkzaamheden? Neem dan contact op met Joost Otten.
+Functie-eisen
+
+    Je hebt een hbo niveau.
+    Je hebt bij voorkeur een hbo-diploma, liefst in de (technische) informatica of in een andere relevante ICT-richting.
+    Je hebt minimaal 5 jaar werkervaring als ontwerper, bouwer of tester in complexe ICT-Infrastructuuromgevingen met Enterprise storagesystemen.
+    Je beschikt over diepgaande kennis van en ervaring met netwerken en firewalls, Storage en SAN, Windows server 2016 icm SCOM en Microsoft SQL server, Linux en ICT Security.
+    Je beschikt over goede mondelinge en schriftelijke uitdrukkingsvaardigheden, zowel in het Nederlands als Engels.
+    Als je beschikt over actuele relevante certificeringen vragen we je heel nadrukkelijk om deze te vermelden op je cv.
+    Het is een pre als je bent gecertificeerd als SNIA Certified Engieneer, op Brocade SAN.
+    Het is een pre als je beschikt over kennis van en ervaring met VMWare, Cloudplatformen, Scripting (powershell, python en anderen), Cassandra, Hadoop, Elasticsearch, Windows en Linux OS.
+    En als je, in een leidende rol, ervaring hebt met het werken in een 'DevOps-omgeving' is dat eveneens een pre.
+
+
+Jouw competenties?
+
+    klantgerichtheid
+    analyseren
+    resultaatgericht
+    samenwerken
+    zelfontwikkeling
+
+Herken jij jezelf hierin ook?
+Je bent enthousiast over onze visie op de ontwikkeling van een software defined datacenter en je wilt dat enthousiasme kwijt kunnen in jouw werkzaamheden. Met initiatieven kunnen komen om resultaat te bereiken: je bent doelgericht. Je bent graag werkzaam in een hectische omgeving en je kunt ook dan jezelf goed focussen. Je werkt graag zelfstandig, maar je krijgt ook energie van de samenwerking met anderen. Je wilt altijd van hen leren, zowel persoonlijk als vakinhoudelijk en dat je daarvoor bij de Belastingdienst volop de gelegenheid krijgt, vind je dan ook een belangrijk pre om te kiezen voor deze werkgever die heel nadrukkelijk op weg is naar de toekomst.
+
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 11
+    Salaris­omschrijving
+
+    In beginsel vindt inschaling in de naast lagere salarisschaal plaats. Bij aanwezigheid van relevante kennis, ervaring of om arbeidsmarktoverwegingen kan inschaling op een hogere positie in de desbetreffende salarisschaal plaatsvinden. Ook bestaat de mogelijkheid om in bijzondere gevallen waarin de aanwezige kennis en/of ervaring dit rechtvaardigt, direct in de bij de functie behorende salarisschaal in te schalen.
+    Maand­salaris Min €3.256 – Max. €5.003 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur Tijdelijke aanstelling / Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast salaris ontvang je ook een individueel keuzebudget (IKB). Jouw IKB bestaat uit geld (IKB-budget) en tijd (IKB-uren). Het IKB geeft je de mogelijkheid om naar eigen keuze een deel van je maandinkomen te laten uitbetalen op de door jou gekozen tijdstippen. Én je hebt de mogelijkheid om je maandinkomen deels om te zetten in verlof of andersom. Ook kun je het IKB-budget besteden aan een fiscaal-vriendelijk doel, zoals bijvoorbeeld een fiets, bedrijfsfitness of vakliteratuur. De Rijksoverheid hecht sterk aan persoonlijke groei en loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden. Tot de secundaire arbeidsvoorwaarden behoren onder meer studiefaciliteiten, ouderschapsverlof en een vergoeding woon-werkverkeer. Wij verwachten van onze werknemers dat ze integer zijn en we vragen aan nieuwe medewerkers een Verklaring Omtrent Gedrag (VOG). Als deze niet kan worden overlegd, volgt geen arbeidsovereenkomst of wordt de arbeidsovereenkomst na uiterlijk 3 maanden beëindigd wanneer duidelijk is dat geen VOG overgelegd kan worden.
+Bijzonderheden
+
+We ontvangen je brief en cv graag in een Word- of PDF-bestand. Als je een beroep doet op een voorrangspositie, stuur dan ook een kopie van die kennisgeving mee.
+
+De voorkeur gaat uit naar kandidaten die het meest aansluiten bij het opgestelde profiel. Dit heeft betrekking op zowel de genoemde opleiding(en) als werkervaringseisen. Vermeld deze daarom duidelijk in je cv.
+
+De Belastingdienst zet zich in om medewerkers in dienst te nemen die onder de doelgroep van de Wet banenafspraak vallen. Val je in deze doelgroep en sta je in het doelgroepenregister? Dan nodigen we ook jou uit om te reageren! Samen met jou kijken we of en hoe je eventueel invulling kunt geven aan deze functie. Meer weten? Klik dan hier!
+
+Een (online) voorselectietest en/of een assessment kan deel uit maken van de sollicitatieprocedure (uitgezonderd interne horizontale kandidaten), evenals het maken van een casus, het opvragen van referenties en (online) screening, bijvoorbeeld via databanken, (zoekmachines) en sociale netwerken.
+Meer over jouw toekomstige afdeling
+
+De Directie Informatievoorziening (IV) heeft een integraal jaarplan. De organisatie werkt voor de gehele Belastingdienst en heeft als doel de Belastingdienst optimaal te ondersteunen. Daartoe werkt IV met de business samen op basis van functionele gelijkwaardigheid. In onderling overleg wordt de prioriteitstelling vastgesteld, waarbij de eindverantwoordelijkheid steeds meer schuift richting de business.
+
+Onderdeel DataCenter Services (DCS) verzorgt de voortbrenging en exploitatie van de generieke delen van de infrastructuur voor de Belastingdienst en mogelijk andere onderdelen van de Nederlandse overheid.
+
