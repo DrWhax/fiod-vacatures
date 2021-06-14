@@ -1,0 +1,169 @@
+Stand­plaats Den Haag
+Contractduur -
+Uren per week 32 - 36
+Maand­salaris €3.279 - €5.039
+Salaris­niveau schaal 11
+Niveau Bachelor - HBO
+
+Vakgebied ICT
+Reageren voor 23 juni Nog 9 dagen
+Vacaturenummer 1134126
+Plaatsingsdatum 20 mei 2021
+Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+
+Functie­omschrijving
+
+“Als senior security- en infrastructuurspecialist bij het FCInet Secretariat ben
+je verantwoordelijk voor een veilig, adequaat, decentraal computernetwerk. En
+ben je de sparringpartner voor collega’s wereldwijd bij integratie in lokale
+infrastructuur en private cloudomgevingen.” Mike, senior security- en
+infrastructuurspecialist.
+
+FCInet is een uniek decentraal computersysteem tussen overheden wereldwijd voor
+gedistribueerde data-analyse en joint innovation. Hierin kunnen complexe
+technische en securityoplossingen worden ontworpen en geïmplementeerd, zonder
+dat daarbij inbreuk wordt gemaakt op de privacy en autonomie van de deelnemende
+landen. Een bijzonder en complex krachtenveld met vaak tegenstrijdige belangen,
+waarin jij een cruciale rol speelt.
+
+In jouw rol als senior security- en infrastructuurspecialist ben je
+verantwoordelijk voor het operationele IT-proces van het FCInet. Je maakt
+solutionarchitecturen die aansluiten op de strategische IT-doelen (zoals
+decentrale autonomie, privacy by design, security by design) van de CIO en
+implementeert deze. Daarnaast bewaak je het voortgangsproces van het network
+operations center (NOC). Je ziet toe op de naleving van IT-securityprocedures en
+identificeert securityrisico’s. Verder stel je architectuurontwerpen op voor de
+relevante deelgebieden die voldoen aan alle eisen van de FCInet deelnemers
+wereldwijd. Denk aan cloud-, netwerk-, beveiligings- en applicatiearchitectuur
+en -infrastructuur. Ook ontwerp, beveilig en beheer je het centrale FCInet NOC
+en ondersteun je de decentrale FCInet-infrastructuur in de deelnemende landen.
+
+Als senior security- en infrastructuurspecialist bouw je het decentrale
+FCInet-netwerk en de FCInet-knooppunten wereldwijd uit. Je richt de architectuur
+en beveiliging van het FCInet in, en adviseert en ondersteunt deelnemende landen
+op afstand of op locatie. En je neemt het NOC-veiligheidsbeheer en de decentrale
+FCInet-infrastructuur voor je rekening, waarbij je zorg draagt voor beheersbare
+netwerken en systemen. Het inrichten en onderhouden van geautomatiseerde
+monitoring, analyse en deployment van de FCInet-infrastructuur behoort ook tot
+jouw takenpakket. Evenals het vaststellen en ontwikkelen van een centrale
+operationele IT-architectuur, -systemen en internationale
+samenwerkingsomgevingen. Verder inventariseer je de functionele eisen. En tot
+slot maak je investeringsvoorstellen voor de implementatie van strategische
+IT-doelen, stel je requirements op en fungeer je als aanspreekpunt voor technici
+van de deelnemende landen.
+
+Zullen we zakendoen en word jij de nieuwe collega van Mike? Of wil je liever eerst eens praten over jouw misschien wel toekomstige werkzaamheden? Neem dan met ons op.
+Functie-eisen
+
+    Je hebt een bachelor op het gebied van informatica of informatiekunde.
+    Je hebt minimaal vijf jaar aantoonbare werkervaring in het beheren en inrichten van netwerk- en beveiligingsinfrastructuren (design, build, operate, maintain, lifecycle) in ICT omgevingen met gerubriceerde gegevens.
+    Je hebt diepgaande kennis van en ervaring met OSS-/FOSS-operatingsystemen, waaronder in elk geval Linux (Ubuntu is een pre), inclusief shell/bash/automation.
+    Je hebt diepgaande kennis van en ervaring met communicatiebeveiligingsproducten en datacenterinfrastructuren, waaronder in elk geval FortiGate en Cisco (Open VPN NL, Secunet SINA crypto’s zijn een pre).
+    Je hebt zeer brede kennis van en ervaring in IT-security, cloudtechnieken, DevOps-infrastructuren, netwerktooling, DevOps-tooling, orchestrationtooling (specifiek Ansible en Python) en GNU/Linux-operatingsystemen.
+    Je hebt toonaangevende expertise en ervaring op bovenstaande gebieden als internationale gesprekspartner en technisch adviseur voor security-officers, infrastructuurarchitecten en netwerk- en systeembeheerders van deelnemende overheidsorganisaties wereldwijd.
+    Je spreekt en schrijft vloeiend Nederlands en Engels.
+
+Jouw competenties?
+
+    flexibel
+    creatief
+    contactgerichtheid
+    initiatief
+    analyseren
+
+Herken jij jezelf ook hierin?
+Je ben communicatief sensitief en je kunt buiten conventionele oplossingen en kaders denken. Daarnaast heb je een innovatieve mindset, en werk je graag samen, ook over de grenzen van je team heen. Betrouwbaar, hands-on mentaliteit, sympathiek, extrovert.
+
+Arbeids­voorwaarden
+
+    Salaris­niveau schaal 11
+    Salaris­omschrijving
+
+    In beginsel vindt inschaling in de naast lagere salarisschaal plaats. Bij aanwezigheid van relevante kennis, ervaring of om arbeidsmarktoverwegingen kan inschaling op een hogere positie in de desbetreffende salarisschaal plaatsvinden. Ook bestaat de mogelijkheid om in bijzondere gevallen waarin de aanwezige kennis en/of ervaring dit rechtvaardigt, direct in de bij de functie behorende salarisschaal in te schalen.
+    Maand­salaris Min €3.279 – Max. €5.039 (bruto)
+    Dienst­verband Arbeidsovereenkomst voor bepaalde tijd met uitzicht op onbepaalde tijd
+    Contract­duur -
+    Minimaal aantal uren per week 32
+    Maximaal aantal uren per week 36
+
+Overige arbeids­voorwaarden
+
+Naast salaris ontvang je ook een individueel keuzebudget (IKB). Jouw IKB bestaat
+uit geld (IKB-budget) en tijd (IKB-uren). Het IKB geeft je de mogelijkheid om
+naar eigen keuze een deel van je IKB-budget te laten uitbetalen op de door jou
+gekozen tijdstippen. Én je hebt de mogelijkheid om je IKB-budget deels om te
+zetten in verlof of andersom. Ook kun je het IKB-budget besteden aan een
+fiscaal-vriendelijk doel, zoals bijvoorbeeld een fiets, bedrijfsfitness of
+vakliteratuur. De Rijksoverheid hecht sterk aan persoonlijke groei en
+loopbaanontwikkeling en biedt daarvoor tal van mogelijkheden.
+
+Tot de secundaire arbeidsvoorwaarden behoren onder meer studiefaciliteiten,
+ouderschapsverlof en een vergoeding woon-werkverkeer. Wij verwachten van onze
+werknemers dat ze integer zijn. Daarom worden alle medewerkers van de FIOD
+gescreend. De zwaarte van de screening is afhankelijk van de specifieke functie
+die je gaat bekleden. Pas als deze screening geen belemmeringen oproept kan je
+in dienst treden bij de FIOD. Wij bieden je een inwerkprogramma aan en
+afhankelijk van je opleiding en werkervaring een opleiding en/of training.
+Gedurende deze periode is het niet mogelijk om in deeltijd te werken. Als je
+deze periode hebt afgerond en bij goed functioneren in de praktijk, krijg je een
+arbeidsovereenkomst voor onbepaalde tijd. Als je de opleiding
+opsporingsambtenaar en rechercheopleiding (inclusief praktijkstage) niet
+succesvol afrondt, wordt jouw arbeidsovereenkomst tussentijds beëindigd of niet
+verlengd. Voor de interne kandidaat geldt dan dat die wordt teruggeplaatst naar
+zijn oorspronkelijke organisatieonderdeel en wordt belast met werkzaamheden die
+gelijk of gelijksoortig zijn aan die van de oorspronkelijke functie.
+
+Bijzonderheden
+
+We ontvangen je brief en cv graag in een Word- of PDF-bestand. Als je een beroep doet op een voorrangspositie, stuur dan ook een kopie van die kennisgeving mee.
+
+Onze selectieprocedure voor deze functie ziet er als volgt uit: Allereerst wordt
+beoordeeld of een voorrangskandidaat binnen de Rijksoverheid in aanmerking komt
+voor deze functie.  Daarna wordt beoordeeld of jouw cv en motivatiebrief voldoen
+aan de gestelde functie-eisen.
+
+De selectiegesprekken en het assessment voor deze functie vinden plaats in juli
+2021. Onderaan deze vacature vind je meer uitleg over de stappen die je
+doorloopt in de sollicitatieprocedure.
+
+De voorkeur gaat uit naar kandidaten die het meest aansluiten bij het opgestelde
+profiel. Dit heeft betrekking op zowel de genoemde opleiding(en) als
+werkervaringseisen. Vermeld deze daarom duidelijk in je cv.
+
+Medewerkers van de Belastingdienst die korter dan drie jaar in hun huidige
+functie werkzaam zijn of bezig zijn met een startopleiding of inwerktraject
+verzoeken we om in hun motivatiebrief duidelijk aan te geven wat de reden is om
+binnen de termijn van drie jaar te solliciteren.
+
+De Belastingdienst zet zich in om medewerkers in dienst te nemen die onder de
+doelgroep van de Wet banenafspraak vallen. Val je in deze doelgroep en sta je in
+het doelgroepenregister? Dan nodigen we ook jou uit om te reageren! Samen met
+jou kijken we of en hoe je eventueel invulling kunt geven aan deze functie. Meer
+weten? Klik dan hier!
+
+Een (online) voorselectietest en/of een assessment kan deel uit maken van de
+sollicitatieprocedure, evenals het maken van een casus, het opvragen van
+referenties en (online) screening, bijvoorbeeld via databanken, (zoekmachines)
+en sociale netwerken.
+
+Jouw sollicitatie wordt alleen in behandeling genomen als je met de
+sollicitatie-button reageert en je cv en motivatiebrief zijn bijgesloten. Na
+sluitingsdatum is het niet meer mogelijk om je sollicitatie in behandeling te
+nemen. Houd er rekening mee dat het solliciteren technische problemen met zich
+mee kan brengen. Wacht hiermee dus niet tot het laatste moment.
+
+Meer over jouw toekomstige afdeling
+
+Criminelen die geld witwassen. Mensen die zich verrijken ten koste van óns
+belastinggeld. Óf bedrijven die hun werknemers of leveranciers schaden door
+faillissementsfraude. Er is altijd iemand de dupe en fraude kent vele gezichten.
+Komt in het groot en klein voor én in alle lagen van de bevolking.  Fraude
+bestrijden is dan ook van groot financieel én maatschappelijk belang en dat doet
+de FIOD, de opsporingsdienst van de Belastingdienst.
+
+Naast de traditionele fiscale, financiële en economische onderzoeken, waaronder
+complexe faillissementsfraude, zijn witwasbestrijding en corruptiebestrijding
+terreinen waar de FIOD meer op inzet. Daarnaast is er toenemende aandacht voor
+de aanpak van terrorismefinanciering, cyberfraude en ondermijning. We werken met
+gebruik van digitale middelen en de inzet van moderne technologieën. Ook wordt
+steeds meer opgetreden en gehandeld in internationale context.
